@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @yod-2023
-- 👀 I’m interested in ...Devops cloud and Ai
-- 🌱 I’m currently learning cloud Engineer
-- 📫 How to reach me ...
-- 😄 Pronouns: He
-- ⚡ Fun fact: ...
+# Hi there! I'm @yod-2023 👋
 
-<!---
-yod-2023/yod-2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- 👀 I'm interested in DevOps, Cloud Computing, and AI.
+- 🌱 I'm currently learning Cloud Engineering and expanding my skills in related technologies.
+- 😄 Pronouns: He/Him
+- ⚡ Fun Fact: I love solving complex problems and automating processes in the cloud!
+
+## How to Reach Me
+Feel free to reach out to me via [your preferred contact method, e.g., email, LinkedIn, etc.].
+
