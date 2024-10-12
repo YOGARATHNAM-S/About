@@ -1,4 +1,4 @@
-# Hi there! I'm @yod-2023 👋
+# Hi there! I'm Yogarathnam 👋
 
 ## About Me
 - 👀 I'm interested in DevOps, Cloud Computing, and AI.
