@@ -1,8 +1,8 @@
 # Hi there! I'm Yogarathnam 👋
 
 ## About Me
-- 👀 I'm interested in DevOps, Cloud Computing, and AI.
-- 🌱 I'm currently learning Cloud Engineering and expanding my skills in related technologies.
+- 👀 I'm interested in  Cloud Computing, and AI.
+- 🌱 I'm currently learning MCA and expanding my skills in related technologies.
 - 😄 Pronouns: He/Him
 - ⚡ Fun Fact: I love solving complex problems and automating processes in the cloud!
 
